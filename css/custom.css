@@ -1,0 +1,224 @@
+body{
+  background-color: black;
+  padding: 10px; margin: 10px; border: 10px black solid;
+}
+
+label{
+  display:block;
+  margin-top: 1rem;
+}
+
+.checks label{
+  margin-top: 0;
+} 
+label:first-of-type{
+ margin-top: 0;
+}
+
+input{
+  padding: 1rem;
+  border: solid 1px #999;
+}
+
+input[type="firstname"], input[type="lastname"], input[type="mobile"], input[type="email"],input[type="select file"]{
+  width: 1rem;
+}
+
+.btn{
+  display: inline-block;
+  border: none;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.editForm{
+  display: inline-block;
+  border: none;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  text-align:left;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.footer-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color:aquamarine;
+  text-decoration: none;
+  font-size: small;
+  font-weight: bold;
+}
+
+#editForm{
+  text-decoration:none;
+  color: rgb(146, 40, 97);
+  padding: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+  padding: 10px; margin: 0px, 10px; border: 10px black solid;
+}
+
+#addContact{
+  text-decoration:none;
+  color: rgba(221, 15, 135, 0.76);
+  padding: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+}
+
+#refresh{
+  text-decoration:none;
+  color: rgb(131, 58, 10);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+}
+
+#homeLink{
+  text-decoration:none;
+  color: rgb(196, 19, 113);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+}
+
+#submitForm{
+  text-decoration:none;
+  color: rgb(133, 13, 77);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+  margin: 20px;
+}
+
+#avatar{
+  text-decoration:none;
+  color: rgb(133, 13, 77);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+  
+}
+
+#firstname{
+  text-decoration:none;
+  color:rgb(31, 5, 19);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+}
+
+#lastname{
+  text-decoration:none;
+  color: rgb(31, 5, 19);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+}
+#mobile{
+  text-decoration:none;
+  color: rgb(31, 5, 19);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+}
+
+#email{
+  text-decoration:none;
+  color: rgb(31, 5, 19);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+  
+}
+
+#editContact{
+  text-decoration:none;
+  color: rgb(209, 39, 130);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+  margin: 20px;
+}
+
+#deleteContact{
+  text-decoration:none;
+  color: rgb(204, 22, 119);
+  padding-top: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+  margin: 20px;
+}
+
+#table{
+  text-decoration:none;
+  color: rgba(255, 247, 251, 0.89);
+  padding: 10px; margin: 0px, 10px; border: 10px black solid;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+  margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
